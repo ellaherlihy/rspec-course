@@ -15,10 +15,3 @@ RSpec.describe Royal do
         expect(queen.name).to eq('Camilla')
     end
 end
-
-# testing testing
-# testing testing
-# testing testing
-
-# testing testing
-# testing testing
