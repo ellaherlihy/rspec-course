@@ -11,3 +11,5 @@ RSpec.describe 'one-liner syntax' do
         it { is_expected.to eq(5) }
     end
 end
+
+# change made to the one_liner file
