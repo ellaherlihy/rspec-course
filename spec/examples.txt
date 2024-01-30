@@ -1,7 +1,6 @@
 example_id                                             | status | run_time        |
 ------------------------------------------------------ | ------ | --------------- |
-./spec/all_matcher_spec.rb[1:1]                        | passed | 0.00148 seconds |
-./spec/all_matcher_spec.rb[1:2:1]                      | passed | 0.00007 seconds |
+./spec/all_matcher_spec.rb[1:1]                        | passed | 0.0044 seconds  |
 ./spec/allow_method_spec.rb[1:1]                       | passed | 0.0001 seconds  |
 ./spec/allow_method_spec.rb[1:2]                       | passed | 0.0001 seconds  |
 ./spec/allow_method_spec.rb[1:3]                       | passed | 0.00224 seconds |
